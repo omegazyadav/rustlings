@@ -9,6 +9,6 @@
 // I AM NOT DONE
 
 fn main() {
-    x = 5;
+    let x = 5; // Declaration of the variable missing 
     println!("x has the value {}", x);
 }
